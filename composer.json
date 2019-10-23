@@ -1,0 +1,12 @@
+{
+    "name": "wilder/twig",
+    "authors": [
+        {
+            "name": "Nathan Vanpeene",
+            "email": "nathv59@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
